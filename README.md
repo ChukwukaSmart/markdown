@@ -4,7 +4,7 @@
     - [Horizontal Rule](rule)
     - [Text Formatting](text)
     - [List](list)
-    - [Code Formatting](formatting)
+    - [Code Formatting](#formatting)
     - [Blockquote](bquote)
     - [Links](links)
     - [Images](images)
