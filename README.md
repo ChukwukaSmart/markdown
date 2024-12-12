@@ -1,13 +1,13 @@
 # Table of Contents
 - Basic Syntax
     - [Headings](#heading)
-    - [Horizontal Rule](rule)
-    - [Text Formatting](text)
-    - [List](list)
+    - [Horizontal Rule](#rule)
+    - [Text Formatting](#text)
+    - [List](#list)
     - [Code Formatting](#formatting)
-    - [Blockquote](bquote)
-    - [Links](links)
-    - [Images](images)
+    - [Blockquote](#bquote)
+    - [Links](#links)
+    - [Images](#images)
 - Extended Syntax
   
       - Table
@@ -54,9 +54,11 @@ def greet():
 
 ### you can preview the project [here](https://tech365.ng 'tech365 website')
 
+## images
 ![OforKaNsi](pix.png)
 
-Underline (dash dash dash)
+## rule
+
 ---
 
 
