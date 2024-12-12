@@ -1,6 +1,6 @@
 # Table of Contents
 - Basic Syntax
-    - [Headings](heading)
+    - [Headings](#heading)
     - [Horizontal Rule](rule)
     - [Text Formatting](text)
     - [List](list)
@@ -14,6 +14,7 @@
       - Task List
       - Highlight  
 
+## heading
 
 # About Completing the DevOps Training
 ## Whethere there is intenship or not, I am looking for job
