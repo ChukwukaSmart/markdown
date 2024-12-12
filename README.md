@@ -34,6 +34,5 @@ def greet():
 
 ### you can preview the project [here](https://tech365.ng 'tech365 website')
 
-### Here is my profile picture
 ![OforKaNsi](pix.png)
 
