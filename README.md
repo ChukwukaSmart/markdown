@@ -1,3 +1,5 @@
+[heading]
+
 # About Completing the DevOps Training
 ## Whethere there is intenship or not, I am looking for job
 ### Kindly reach out if you have an ofer for me.
@@ -36,3 +38,52 @@ def greet():
 
 ![OforKaNsi](pix.png)
 
+Underline (dash dash dash)
+---
+
+
+| Serial Number | Name          | Email                | Age |
+|---------------|---------------|----------------------|-----|
+| 1             | John Doe      | john.doe@example.com | 28  |
+| 2             | Jane Smith    | jane.smith@example.com| 34  |
+| 3             | Emily Johnson | emily.johnson@example.com | 22  |
+
+- [x] Learn DevOps
+- [x] Build projects
+- [x] Apply the knowledge
+
+- [ ] Item 1
+- [x] Item 2 (checked)
+- [ ] Item 3
+  
+<select>
+  <option value="option1">Option 1</option>
+  <option value="option2">Option 2</option>
+  <option value="option3">Option 3</option>
+</select>
+
+---
+
+😂
+
+😄
+
+❤️
+
+✈️
+
+# Table of Contents
+- Basic Syntax
+    - [Headings](heading)
+    - [Horizontal Rule](rule)
+    - [Text Formatting](text)
+    - [List](list)
+    - [Code Formatting](formatting)
+    - [Blockquote](bquote)
+    - [Links](links)
+    - [Images](images)
+- Extended Syntax
+  
+      - Table
+      - Task List
+      - Highlight  
