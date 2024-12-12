@@ -1,4 +1,19 @@
-[heading]:
+# Table of Contents
+- Basic Syntax
+    - [Headings](heading)
+    - [Horizontal Rule](rule)
+    - [Text Formatting](text)
+    - [List](list)
+    - [Code Formatting](formatting)
+    - [Blockquote](bquote)
+    - [Links](links)
+    - [Images](images)
+- Extended Syntax
+  
+      - Table
+      - Task List
+      - Highlight  
+
 
 # About Completing the DevOps Training
 ## Whethere there is intenship or not, I am looking for job
