@@ -5,12 +5,11 @@
     - [Text Formatting](#text)
     - [List](#list)
     - [Code Formatting](#formatting)
-    - [Blockquote](#bquote)
+    - [Blockquote](#quote)
     - [Links](#links)
     - [Images](#images)
 - Extended Syntax
-  
-      - Table
+      - [Table](#table)
       - Task List
       - Highlight  
 
@@ -46,6 +45,7 @@ def greet():
     print('Hello World!')
 ~~~
 
+## quote
 > Life is not hard
 
 > Said by Wale Olajumoke
@@ -61,7 +61,7 @@ def greet():
 
 ---
 
-
+## table
 | Serial Number | Name          | Email                | Age |
 |---------------|---------------|----------------------|-----|
 | 1             | John Doe      | john.doe@example.com | 28  |
