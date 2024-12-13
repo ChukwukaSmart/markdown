@@ -50,7 +50,8 @@ def greet():
 > Said by Wale Olajumoke
 
 > Seconded by Mr Smart
-
+> 
+## links
 ### you can preview the project [here](https://tech365.ng 'tech365 website')
 
 ## images
