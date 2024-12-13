@@ -13,7 +13,7 @@
       - Task List
       - Highlight  
 
-## heading
+## headings
 
 # About Completing the DevOps Training
 ## Whethere there is intenship or not, I am looking for job
@@ -22,7 +22,6 @@
 ## Formatting
 
 **Bold Text**
-
 *Italics*
 
 ***Bold and italics at the same time***
