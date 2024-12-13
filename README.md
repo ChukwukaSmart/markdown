@@ -8,7 +8,7 @@
     - [Blockquote](#quote)
     - [Links](#links)
     - [Images](#images)
-    - [cords](cords)
+    - [cords](#cords)
 - Extended Syntax
       - [Table](#table)
       - Task List
