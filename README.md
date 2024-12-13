@@ -66,9 +66,9 @@ def greet():
 ## table
 | Serial Number | Name          | Email                | Age |
 |---------------|---------------|----------------------|-----|
-| 1             | John Doe      | john.doe@example.com | 28  |
-| 2             | Jane Smith    | jane.smith@example.com| 34  |
-| 3             | Emily Johnson | emily.johnson@example.com | 22  |
+| 1             | Smith Ofor     | smith.o@forsage.com | 28  |
+| 2             | Jane Ibeh   | jane.i@yahoo.com| 34  |
+| 3             | Steph Bundu | steph.b@gmail.com | 22  |
 
 - [x] Learn DevOps
 - [x] Build projects
