@@ -92,6 +92,10 @@ def greet():
 
 ✈️
 
+👣
+
+🤞
+
 # Table of Contents
 - Basic Syntax
     - [Headings](heading)
@@ -107,3 +111,12 @@ def greet():
       - Table
       - Task List
       - Highlight  
+
+# Cords With NneNne
+## Type C:
+```
+Sage = 10
+Soft = 5
+Type B = 7
+Total = 22pcs
+```
