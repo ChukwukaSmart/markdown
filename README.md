@@ -119,6 +119,6 @@ def greet():
 ```
 Sage = 10
 Soft = 5
-Type B = 10 (returned 7, sold 3, she has us N2400)
+Type B = 10 (returned 7, sold 3, she has paid us N2400)
 Total = 15pcs
 ```
